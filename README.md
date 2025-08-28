@@ -6,7 +6,7 @@ This is my software dev profile.
 ### 
 - 21 years old  
 - I write code in:
-  - C & C++ (most proficient)
+  - C & C++ 
   - Java
   - Python
   - Kotlin
